@@ -1,17 +1,19 @@
-👋 Hello, I'm [Votre Nom]!
+👋 Hello, I'm Louis !
+
 🚀 Data Engineer | Data Enthusiast | Problem Solver
 
 Bienvenue sur mon GitHub! Je suis un Data Engineer passionné par la transformation des données en valeur ajoutée. Mon objectif est de concevoir et de maintenir des pipelines de données robustes, évolutifs et efficaces qui permettent aux entreprises de prendre des décisions éclairées.
 
 🛠️ Technologies & Outils
-Langages de programmation : Python, SQL, Scala
+Langages de programmation : Python, SQL
 Big Data : Hadoop, Spark, Hive, Kafka
-Cloud : AWS, GCP, Azure
-ETL : Apache NiFi, Airflow, Talend
+Cloud : AWS, GCP
+Orchestration : Apache Airflow
 Bases de données : MySQL, PostgreSQL, MongoDB, Cassandra
 Outils de Conteneurisation : Docker, Kubernetes
-CI/CD : Jenkins, GitLab CI/CD
-Visualisation : Tableau, Power BI, Looker
+Visualisation : Streamlit, Power BI, Looker
+
+
 🧠 Ce que je fais
 Design de Pipelines de Données : Création et optimisation de pipelines de données complexes pour l'ingestion, la transformation et le chargement de grandes quantités de données.
 Traitement de Données en Temps Réel : Déploiement de solutions de traitement de flux de données en temps réel pour des applications critiques.
