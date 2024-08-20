@@ -5,13 +5,13 @@
 Bienvenue sur mon GitHub! Je suis un Data Engineer passionné par la transformation des données en valeur ajoutée. Mon objectif est de concevoir et de maintenir des pipelines de données robustes, évolutifs et efficaces qui permettent aux entreprises de prendre des décisions éclairées.
 
 ## 🛠️ Technologies & Outils
-Langages de programmation : Python, SQL
-Big Data : Hadoop, Spark, Hive, Kafka
-Cloud : AWS, GCP
-Orchestration : Apache Airflow
-Bases de données : MySQL, PostgreSQL, MongoDB, Cassandra
-Outils de Conteneurisation : Docker, Kubernetes
-Visualisation : Streamlit, Power BI, Looker
+- **Langages de programmation** : Python, SQL
+- **Big Data** : Hadoop, Spark, Hive, Kafka
+- **Cloud** : AWS, GCP
+- **Orchestration** : Apache Airflow
+- **Bases de données** : Oracle, PostgreSQL, MongoDB, Cassandra
+- **Outils de Conteneurisation** : Docker, Kubernetes
+- **Visualisation** : Streamlit, Power BI, Looker
 
 
 ## 🧠 Ce que je fais
