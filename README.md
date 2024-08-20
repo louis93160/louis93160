@@ -35,6 +35,6 @@ Je m'efforce constamment d'améliorer mes compétences techniques et de contribu
 ## 📫 Contactez-moi
 N'hésitez pas à me contacter pour discuter de projets intéressants ou de collaborations potentielles!
 
-LinkedIn : Louis Duvieux
-Email : lduvieux@laposte.net
+- **LinkedIn** : Louis Duvieux
+- **Email** : lduvieux@laposte.net
 Merci de visiter mon profil! 🎉
