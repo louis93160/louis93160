@@ -9,7 +9,7 @@ Bienvenue sur mon GitHub! Je suis un Data Engineer passionné par la transformat
 - **Big Data** : Hadoop, Spark, Hive, Kafka
 - **Cloud** : AWS, GCP
 - **Orchestration** : Apache Airflow
-- **Bases de données** : Oracle, PostgreSQL, MongoDB, Cassandra
+- **Bases de données** : Oracle, PostgreSQL, Microsoft SQL Server, MongoDB, Cassandra
 - **Outils de Conteneurisation** : Docker, Kubernetes
 - **Visualisation** : Streamlit, Power BI, Looker
 
