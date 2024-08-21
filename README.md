@@ -17,6 +17,7 @@ Bienvenue sur mon GitHub! Je suis un Data Engineer passionné par la transformat
 ## 🧠 Ce que je fais
 - **Design de Pipelines de Données** : Création et optimisation de pipelines de données complexes pour l'ingestion, la transformation et le chargement de grandes quantités de données.
 - **Traitement de Données en Temps Réel** : Déploiement de solutions de traitement de flux de données en temps réel pour des applications critiques.
+- **Visualisation de Données** : Création de tableaux de bord interactifs et de visualisations percutantes pour rendre les données accessibles et exploitables par les décideurs.
 - **Optimisation des Performances** : Amélioration continue des performances des systèmes de données, réduction des temps de latence, et optimisation des coûts.
 - **Sécurité des Données** : Mise en œuvre des meilleures pratiques de sécurité pour assurer la confidentialité et l'intégrité des données.
 
