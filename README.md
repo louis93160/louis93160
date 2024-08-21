@@ -38,4 +38,5 @@ N'hésitez pas à me contacter pour discuter de projets intéressants ou de coll
 
 - **LinkedIn** : Louis Duvieux
 - **Email** : lduvieux@laposte.net
+
 Merci de visiter mon profil! 🎉
